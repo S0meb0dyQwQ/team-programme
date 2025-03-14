@@ -24,13 +24,13 @@ int main()
 	InputArray(array_symb, size_symb);
 	OutputArray(array_symb, size_symb);
 
-
+	
 	BubbleSort(array, size);
 	BubbleSort(array_symb, size_symb);
-
+	
 	ReverseArray(array, size);
 	ReverseArray(array_symb, size_symb);
-
+	
 	ResetNegative(array, size);
 	return 0;
 }
