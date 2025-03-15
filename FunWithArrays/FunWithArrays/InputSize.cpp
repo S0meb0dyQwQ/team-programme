@@ -1,5 +1,5 @@
 #include <iostream>
-#include "FunWithArrays.h"
+#include "SomethingThatNotTemplate.h"
 void InputSize(int32_t& size)
 {
 	std::cin >> size;
