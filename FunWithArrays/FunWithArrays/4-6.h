@@ -1,5 +1,5 @@
 #include <iostream>
-#ifndef 4-6
+#ifndef 4-6 
 #define 4-6
 
 template <typename Type>
