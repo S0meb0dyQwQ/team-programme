@@ -1,7 +1,8 @@
 #include <iostream>
 #include "SomethingThatNotTemplate.h"
 #include "FunWithArrays.h"
-void ResetNegative(int32_t* a, int32_t size) 
+template <typename T>
+void ResetNegative(T* a, int32_t size) 
 {
 	for (int32_t i{}; i < size; ++i)
 	{
@@ -12,7 +13,8 @@ void ResetNegative(int32_t* a, int32_t size)
 	}
 	SomeKindOfBubbleSort( a, size);
 }
-void SomeKindOfBubbleSort(int32_t* a, int32_t size) 
+template <typename T>
+void SomeKindOfBubbleSort(T* a, int32_t size) 
 {
 	for (int32_t i{}; i < size - 1; ++i)
 	{

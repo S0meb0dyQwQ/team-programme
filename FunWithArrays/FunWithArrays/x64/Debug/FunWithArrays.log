@@ -1,2 +1,17 @@
-﻿  main.cpp
-  FunWithArrays.vcxproj -> C:\Users\Comp\source\repos\FunWithArrays\x64\Debug\FunWithArrays.exe
+﻿  InputSize.cpp
+C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\FunWithArrays\InputSize.cpp(9,11): warning C4804: <: небезопасное использование типа "bool" в операции
+  main.cpp
+C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\FunWithArrays\FunWithArrays.h(62,2): error C3861: SomeKindOfBubbleSort: идентификатор не найден
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\FunWithArrays\FunWithArrays.h(62,2):
+      "SomeKindOfBubbleSort": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+      C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\FunWithArrays\FunWithArrays.h(62,2):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\FunWithArrays\main.cpp(34,2):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void ResetNegative<int32_t>(T *,int32_t)"
+          with
+          [
+              T=int32_t
+          ]
+  
+  Создание кода...
