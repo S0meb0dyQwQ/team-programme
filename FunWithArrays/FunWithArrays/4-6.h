@@ -1,4 +1,6 @@
 #include <iostream>
+#ifndef 4-6 
+#define 4-6
 
 template <typename Type>
 Type CalculateAverage(Type* array, int32_t size) {
@@ -34,4 +36,4 @@ int32_t MinElement(Type* array, int32_t size) {
 	}
 	return numberOfPosition;
 }
-
+#endif
