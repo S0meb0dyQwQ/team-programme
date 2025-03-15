@@ -1,6 +1,11 @@
 #include <iostream>
 #include "FunWithArrays.h"
 #include "SomethingThatNotTemplate.h"
+#include "CalculateAverage.h"
+#include "FindSumOfPrimeNumbers.h"
+#include "IsPrime.h"
+#include "MinElement.h"
+#include "MaxElement.h"
 const int32_t MAX_SIZE{ 100 };
 int main()
 {
