@@ -1,7 +1,6 @@
 #include <iostream>
 #include "FunWithArrays.h"
-#include "SomethingThatNotTemplate.h"
-#include "4-6.h"
+//#include "4-6.h"
 const int32_t MAX_SIZE{ 100 };
 int main()
 {
