@@ -1,0 +1,2 @@
+﻿IsPrime.obj : error LNK2005: "bool __cdecl IsPrime(int)" (?IsPrime@@YA_NH@Z) уже определен в FindSumOfPrimeNumbers.obj
+C:\Users\Comp\Git\team-programme\team-programme\FunWithArrays\x64\Debug\FunWithArrays.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
