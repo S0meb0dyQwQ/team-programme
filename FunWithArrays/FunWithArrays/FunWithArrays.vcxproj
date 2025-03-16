@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindSumOfPrimeNumbers.cpp" />
     <ClCompile Include="InputSize.cpp" />
+    <ClCompile Include="IsPrime.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="ResetNegative.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FunWithArrays.h" />
+    <ClInclude Include="Glushkovpart.h" />
     <ClInclude Include="SomethingThatNotTemplate.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

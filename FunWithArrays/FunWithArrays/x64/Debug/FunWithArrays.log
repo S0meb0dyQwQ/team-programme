@@ -1,2 +1,26 @@
 ﻿  main.cpp
-  FunWithArrays.vcxproj -> C:\Users\Comp\source\repos\FunWithArrays\x64\Debug\FunWithArrays.exe
+C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(8,10): warning C4101: array: неиспользованная локальная переменная
+C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(32,10): warning C4101: array_double: неиспользованная локальная переменная
+C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,25):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(24,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MaxElement<int32_t>(Type *,int32_t)"
+          with
+          [
+              Type=int32_t
+          ]
+  
+C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,25):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(25,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MinElement<int32_t>(Type *,int32_t)"
+          with
+          [
+              Type=int32_t
+          ]
+  
+  FunWithArrays.vcxproj -> C:\Users\Comp\Git\team-programme\FunWithArrays\x64\Debug\FunWithArrays.exe
