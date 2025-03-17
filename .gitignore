@@ -1,32 +1,52 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Скомпилированные бинарные файлы
 *.exe
 *.out
 *.app
+
+# Объектные файлы
+*.o
+*.obj
+
+# Резервные файлы редактора
+*~
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.sln
+
+# Каталоги сборки
+/build/
+/bin/
+/lib/
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Конфигурационные файлы IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Файлы среды Visual Studio
+*.vcxproj*
+*.suo
+*.user
+*.ncb
+*.pch
+*.pdb
+*.ipch
+*.opendb
+
+# Файлы Make
+Makefile
+*.d
+
+# Файлы для отладки
+*.stackdump
+*.debug

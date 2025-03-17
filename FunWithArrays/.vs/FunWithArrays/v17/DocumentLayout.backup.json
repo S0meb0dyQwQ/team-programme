@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|solutionrelative:FunWithArrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Comp\\source\\repos\\HZsomeTasks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\IsPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "FunWithArrays\\InputType.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T14:53:23.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T14:53:23.11Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "FunWithArrays\\CountElements.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-17T13:53:44.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T13:53:44.615Z"
             },
             {
               "$type": "Document",
@@ -88,8 +85,7 @@
               "RelativeToolTip": "FunWithArrays\\FindElements.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-17T13:51:26.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T13:51:26.832Z"
             },
             {
               "$type": "Document",
@@ -101,8 +97,7 @@
               "RelativeToolTip": "FunWithArrays\\PrintArray.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-17T13:38:03.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T13:38:03.637Z"
             },
             {
               "$type": "Document",
@@ -110,12 +105,11 @@
               "Title": "IsPrime.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\IsPrime.cpp",
               "RelativeDocumentMoniker": "FunWithArrays\\IsPrime.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\IsPrime.cpp*",
-              "RelativeToolTip": "FunWithArrays\\IsPrime.cpp*",
+              "ToolTip": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\IsPrime.cpp",
+              "RelativeToolTip": "FunWithArrays\\IsPrime.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T16:31:55.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:31:55.908Z"
             },
             {
               "$type": "Document",
@@ -127,8 +121,7 @@
               "RelativeToolTip": "FunWithArrays\\FindSumOfPrimeNumbers.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T16:31:49.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:31:49.992Z"
             },
             {
               "$type": "Document",
@@ -140,18 +133,17 @@
               "RelativeToolTip": "FunWithArrays\\FunWithArrays.h",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-11T15:30:50.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T15:30:50.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\main.cpp",
-              "RelativeDocumentMoniker": "FunWithArrays\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\team-programme\\FunWithArrays\\FunWithArrays\\main.cpp*",
-              "RelativeToolTip": "FunWithArrays\\main.cpp*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAMwCQAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\HZsomeTasks\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\HZsomeTasks\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\HZsomeTasks\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\HZsomeTasks\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T15:30:12.95Z",
               "EditorCaption": ""
@@ -166,8 +158,7 @@
               "RelativeToolTip": "FunWithArrays\\InputSize.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T14:05:22.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T14:05:22.704Z"
             },
             {
               "$type": "Document",
@@ -179,8 +170,7 @@
               "RelativeToolTip": "FunWithArrays\\Glushkovpart.h",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-16T16:33:03.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:33:03.504Z"
             }
           ]
         }
