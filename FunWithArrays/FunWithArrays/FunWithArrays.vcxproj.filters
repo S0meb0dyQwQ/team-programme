@@ -27,15 +27,24 @@
     <ClCompile Include="IsPrime.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="InputType.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FunWithArrays.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="SomethingThatNotTemplate.h">
+    <ClInclude Include="Glushkovpart.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Glushkovpart.h">
+    <ClInclude Include="PrintArray.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="FindElements.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CountElements.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

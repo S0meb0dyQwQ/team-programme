@@ -1,6 +1,6 @@
+#ifndef GLUSHKOVPART_H
+#define GLUSHKOVPART_H
 #include <iostream>
-#ifndef Glushkovpart
-#define Glushkovpart
 
 template <typename Type>
 int32_t MaxElement(Type* array, int32_t size) {

@@ -1,5 +1,5 @@
-#ifndef FunWithArrays
-#define FunWithArrays
+#ifndef FUNWITHARRAYS_H
+#define FUNWITHARRAYS_H
 template <typename T>
 void InputArray(T* a, int32_t size) 
 {
@@ -76,4 +76,7 @@ void ResetNegative(T* a, int32_t size)
 	}
 	SomeKindOfBubbleSort(a, size);
 }
+void InputSize(int32_t&);
+void InputType(char&);
+bool CheckSize(int32_t);
 #endif

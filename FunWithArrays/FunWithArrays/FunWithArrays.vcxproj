@@ -129,13 +129,16 @@
   <ItemGroup>
     <ClCompile Include="FindSumOfPrimeNumbers.cpp" />
     <ClCompile Include="InputSize.cpp" />
+    <ClCompile Include="InputType.cpp" />
     <ClCompile Include="IsPrime.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CountElements.h" />
+    <ClInclude Include="FindElements.h" />
     <ClInclude Include="FunWithArrays.h" />
     <ClInclude Include="Glushkovpart.h" />
-    <ClInclude Include="SomethingThatNotTemplate.h" />
+    <ClInclude Include="PrintArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
