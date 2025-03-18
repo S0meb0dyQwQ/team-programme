@@ -4,6 +4,7 @@
 #include "PrintArray.h"
 #include "FindElements.h"
 #include "CountElements.h"
+#include "InputSize.h"
 const int32_t MAX_SIZE{ 100 };
 int main()
 {

@@ -76,7 +76,5 @@ void ResetNegative(T* a, int32_t size)
 	}
 	SomeKindOfBubbleSort(a, size);
 }
-void InputSize(int32_t&);
 void InputType(char&);
-bool CheckSize(int32_t);
 #endif

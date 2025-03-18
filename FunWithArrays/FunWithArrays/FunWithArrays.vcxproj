@@ -138,6 +138,7 @@
     <ClInclude Include="FindElements.h" />
     <ClInclude Include="FunWithArrays.h" />
     <ClInclude Include="Glushkovpart.h" />
+    <ClInclude Include="InputSize.h" />
     <ClInclude Include="PrintArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

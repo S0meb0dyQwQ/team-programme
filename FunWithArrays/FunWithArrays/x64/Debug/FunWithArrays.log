@@ -1,17 +1,16 @@
-﻿  IsPrime.cpp
-  main.cpp
+﻿  main.cpp
 C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(31,21): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
 C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(36,24): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(10,10): warning C4101: array: неиспользованная локальная переменная
+C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(11,10): warning C4101: array: неиспользованная локальная переменная
 C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\FindElements.h(17,15): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
   (компиляция исходного файла "main.cpp")
       C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\FindElements.h(17,15):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(31,55):
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(32,55):
           выполняется компиляция ссылки на экземпляр шаблон функции "int32_t FindElement<int32_t>(T *,int32_t)"
           with
           [
@@ -22,7 +21,7 @@ C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(10,
   (компиляция исходного файла "main.cpp")
       C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(10,21):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(32,54):
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(33,54):
           выполняется компиляция ссылки на экземпляр шаблон функции "int32_t CountElements<int32_t>(T *,int32_t)"
           with
           [
@@ -36,7 +35,7 @@ C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,2
   (компиляция исходного файла "main.cpp")
       C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,25):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(34,38):
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(35,38):
           выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MaxElement<int32_t>(Type *,int32_t)"
           with
           [
@@ -47,12 +46,11 @@ C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,2
   (компиляция исходного файла "main.cpp")
       C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,25):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(35,37):
+          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(36,37):
           выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MinElement<int32_t>(Type *,int32_t)"
           with
           [
               Type=int32_t
           ]
   
-  Создание кода...
   FunWithArrays.vcxproj -> C:\Users\Comp\Git\team-programme\FunWithArrays\x64\Debug\FunWithArrays.exe
