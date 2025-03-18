@@ -6,5 +6,5 @@ void InputSize(int32_t& size)
 }
 bool CheckSize(int32_t size)
 {
-	return 0 < size < 100;
+	return 0 < size && size < 100;
 }

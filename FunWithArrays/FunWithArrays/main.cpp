@@ -15,6 +15,7 @@ int main()
 	if (!CheckSize(size))
 	{
 		std::cout << "wrong size\n";
+		return 0;
 	}
 
 	char type{};
