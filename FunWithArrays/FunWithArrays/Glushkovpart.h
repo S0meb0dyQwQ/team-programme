@@ -28,7 +28,16 @@ int32_t MinElement(Type* array, int32_t size) {
 }
 template <typename Type>
 Type CalculateAverage(Type* array, int32_t size) {
-	return (array[MaxElement(array, size) - 1] + array[MinElement(array, size) - 1]) / 2;
+	in32_t minIndex{MinElement(array, size)};
+	in32_t maxIndex{MaxElement(array, size)};
+	Type sumOfElements{};
+	if (maxIndex < minIndex) {
+		swap(minIndex, maxIndex);
+	}
+	for (int32_t i{ minIndex }; minIndex <= maxIndex; ++minIndex) {
+		sumOfElements += array(minIndex);
+	}
+	return sumOfElements/maxIndex-minIndex;
 }
 
 bool IsPrime(int32_t number);
