@@ -28,14 +28,14 @@ int32_t MinElement(Type* array, int32_t size) {
 }
 template <typename Type>
 Type CalculateAverage(Type* array, int32_t size) {
-	in32_t minIndex{MinElement(array, size)};
-	in32_t maxIndex{MaxElement(array, size)};
+	int32_t minIndex{MinElement(array, size)};
+	int32_t maxIndex{MaxElement(array, size)};
 	Type sumOfElements{};
 	if (maxIndex < minIndex) {
-		swap(minIndex, maxIndex);
+		std::swap(minIndex, maxIndex);
 	}
 	for (int32_t i{ minIndex }; minIndex <= maxIndex; ++minIndex) {
-		sumOfElements += array(minIndex);
+		sumOfElements += array[minIndex];
 	}
 	return sumOfElements/maxIndex-minIndex;
 }

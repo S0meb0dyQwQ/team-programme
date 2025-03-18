@@ -1,4 +1,6 @@
-﻿  main.cpp
+﻿  FindSumOfPrimeNumbers.cpp
+  IsPrime.cpp
+  main.cpp
 C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(31,21): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
@@ -53,4 +55,5 @@ C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,2
               Type=int32_t
           ]
   
+  Создание кода...
   FunWithArrays.vcxproj -> C:\Users\Comp\Git\team-programme\FunWithArrays\x64\Debug\FunWithArrays.exe
