@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Branch\\FunWithArrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\FindElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|solutionrelative:FunWithArrays\\FindElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|solutionrelative:FunWithArrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\FindElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|solutionrelative:FunWithArrays\\FindElements.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57439090-99D7-452E-9A1A-2F9A247E0D65}|FunWithArrays\\FunWithArrays.vcxproj|C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\PrintArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\main.cpp",
               "RelativeDocumentMoniker": "FunWithArrays\\main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\main.cpp",
               "RelativeToolTip": "FunWithArrays\\main.cpp",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-18T09:16:16.259Z",
               "EditorCaption": ""
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FindElements.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Branch\\FunWithArrays\\FunWithArrays\\FindElements.h",
               "RelativeDocumentMoniker": "FunWithArrays\\FindElements.h",
@@ -128,8 +128,7 @@
               "RelativeToolTip": "FunWithArrays\\PrintArray.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-17T13:38:03.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T13:38:03.637Z"
             },
             {
               "$type": "Document",

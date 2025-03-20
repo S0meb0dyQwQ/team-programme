@@ -28,8 +28,10 @@ int main()
 		InputArray(array, size);
 
 		std::cout << "here is your array\n"; 
-		PrintArray(array, size);                                
-		std::cout << "i found position of your number\n" << FindElement(array, size) << '\n';
+		PrintArray(array, size);
+		int32_t element{};
+		InputNum(element);
+		std::cout << "i found position of your number\n" << FindElement(element, array, size) << '\n';
 		std::cout << " i count numbers between nulls :" << CountElements(array, size) << '\n';
 
 		std::cout << "position of max:" << MaxElement(array, size) << '\n';
@@ -51,7 +53,9 @@ int main()
 
 		std::cout << "here is your array\n";
 		PrintArray(array_double, size);
-		std::cout << "i found position of your number\n" << FindElement(array_double, size) << '\n';
+		double element_double{};
+		InputNum(element_double);
+		std::cout << "i found position of your number\n" << FindElement(element_double, array_double, size) << '\n';
 		std::cout << " i count numbers between nulls :" << CountElements(array_double, size) << '\n';
 
 		std::cout << "position of max:" << MaxElement(array_double, size) << '\n';
@@ -72,7 +76,9 @@ int main()
 
 		std::cout << "here is your array\n";
 		PrintArray(array_symb, size);
-		std::cout << "i found position of your number\n" << FindElement(array_symb, size) << '\n';
+		char element_char{};
+		InputNum(element_char);
+		std::cout << "i found position of your number\n" << FindElement(element_char, array_symb, size) << '\n';
 		std::cout << " i count numbers between nulls:" << CountElements(array_symb, size) << '\n';
 
 		std::cout << "position of max:" << MaxElement(array_symb, size) << '\n';

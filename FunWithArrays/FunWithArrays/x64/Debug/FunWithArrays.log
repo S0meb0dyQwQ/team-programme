@@ -1,56 +1,119 @@
-﻿  main.cpp
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(31,21): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+﻿  FindSumOfPrimeNumbers.cpp
+  InputSize.cpp
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,2): error C2065: in32_t: необъявленный идентификатор
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): error C3878: синтаксическая ошибка: непредвиденный токен "minIndex" после "expression"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): message : пропущено восстановление ошибки: "идентификатор { идентификатор  . . . идентификатор"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C3878: синтаксическая ошибка: непредвиденный токен "," после "expression_statement"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C3878: синтаксическая ошибка: непредвиденный токен ")" после "expression_statement"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "FindSumOfPrimeNumbers.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\InputSize.cpp(9,11): warning C4804: <: небезопасное использование типа "bool" в операции
+  InputType.cpp
+  IsPrime.cpp
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,2): error C2065: in32_t: необъявленный идентификатор
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): error C3878: синтаксическая ошибка: непредвиденный токен "minIndex" после "expression"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): message : пропущено восстановление ошибки: "идентификатор { идентификатор  . . . идентификатор"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C3878: синтаксическая ошибка: непредвиденный токен "," после "expression_statement"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C3878: синтаксическая ошибка: непредвиденный токен ")" после "expression_statement"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "IsPrime.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\IsPrime.cpp(4,15): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+  main.cpp
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,2): error C2065: in32_t: необъявленный идентификатор
   (компиляция исходного файла "main.cpp")
   
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(36,24): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): error C3878: синтаксическая ошибка: непредвиденный токен "minIndex" после "expression"
   (компиляция исходного файла "main.cpp")
   
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(11,10): warning C4101: array: неиспользованная локальная переменная
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\FindElements.h(17,15): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
-  (компиляция исходного файла "main.cpp")
-      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\FindElements.h(17,15):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(32,55):
-          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t FindElement<int32_t>(T *,int32_t)"
-          with
-          [
-              T=int32_t
-          ]
-  
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(10,21): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
-  (компиляция исходного файла "main.cpp")
-      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(10,21):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(33,54):
-          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t CountElements<int32_t>(T *,int32_t)"
-          with
-          [
-              T=int32_t
-          ]
-  
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\CountElements.h(15,24): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,9): message : пропущено восстановление ошибки: "идентификатор { идентификатор  . . . идентификатор"
   (компиляция исходного файла "main.cpp")
   
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается ";"
   (компиляция исходного файла "main.cpp")
-      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(12,25):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(35,38):
-          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MaxElement<int32_t>(Type *,int32_t)"
-          with
-          [
-              Type=int32_t
-          ]
   
-C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): error C3878: синтаксическая ошибка: непредвиденный токен "," после "expression_statement"
   (компиляция исходного файла "main.cpp")
-      C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\Glushkovpart.h(24,25):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Comp\Git\team-programme\FunWithArrays\FunWithArrays\main.cpp(36,37):
-          выполняется компиляция ссылки на экземпляр шаблон функции "int32_t MinElement<int32_t>(Type *,int32_t)"
-          with
-          [
-              Type=int32_t
-          ]
   
-  FunWithArrays.vcxproj -> C:\Users\Comp\Git\team-programme\FunWithArrays\x64\Debug\FunWithArrays.exe
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,34): message : пропущено восстановление ошибки: ","
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): error C3878: синтаксическая ошибка: непредвиденный токен ")" после "expression_statement"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\Glushkovpart.h(31,40): message : пропущено восстановление ошибки: ")"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\CountElements.h(31,21): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\CountElements.h(36,24): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(49,2): error C2360: пропуск инициализации "element" из-за метки "case"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(32,11):
+       см. объявление "element"
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(72,2): error C2360: пропуск инициализации "element_double" из-за метки "case"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(56,10):
+       см. объявление "element_double"
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(72,2): error C2360: пропуск инициализации "element" из-за метки "case"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(32,11):
+       см. объявление "element"
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(92,2): error C2361: пропуск инициализации "element_char" из-за метки "default"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(79,8):
+       см. объявление "element_char"
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(92,2): error C2361: пропуск инициализации "element_double" из-за метки "default"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(56,10):
+       см. объявление "element_double"
+  
+C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(92,2): error C2361: пропуск инициализации "element" из-за метки "default"
+      C:\Users\Administrator\Branch\FunWithArrays\FunWithArrays\main.cpp(32,11):
+       см. объявление "element"
+  
+  Создание кода...
