@@ -29,6 +29,8 @@ int main()
 
 		std::cout << "here is your array\n";
 		PrintArray(array, size);
+		std::cout << "i erased negative numbers\n";
+		ResetNegative(array, size);
 		int32_t element{};
 		InputNum(element);
 		std::cout << "i found position of your number\n" << FindElement(element, array, size) << '\n';

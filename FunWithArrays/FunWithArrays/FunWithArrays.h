@@ -47,31 +47,38 @@ void ReverseArray(T* a, int32_t size)
 	OutputArray(a, size);
 }
 template <typename T>
-void SomeKindOfBubbleSort(T* a, int32_t size)
+void ResetNegative(T* a, int32_t size)
 {
-	for (int32_t i{}; i < size - 1; ++i)
+	for (int32_t i{}; i < size; ++i)
 	{
-		for (int32_t j{}; j < size - i - 1; ++j)
+		if (a[i] < 0) 
 		{
-			if (a[j] == 0)
+			a[i] = 0;
+			for (int32_t j{i}; j < size - 1; ++j)
 			{
 				std::swap(a[j], a[j + 1]);
 			}
 		}
 	}
 	OutputArray(a, size);
-}
-template <typename T>
-void ResetNegative(T* a, int32_t size)
-{
+	/*T b[100];
+	int32_t j{};
 	for (int32_t i{}; i < size; ++i)
 	{
-		if (a[i] < 0)
+		for (j; j < size; ++j)
 		{
-			a[i] = 0;
+			if (a[j] >= 0) 
+			{
+				b[i] = a[j];
+				break;
+			}
+		}
+		if (j >= size - 1)
+		{
+			b[i] = 0;
 		}
 	}
-	SomeKindOfBubbleSort(a, size);
+	OutputArray(b, size);*/
 }
 void InputType(char&);
 #endif
