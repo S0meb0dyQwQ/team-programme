@@ -18,13 +18,17 @@ void OutputArray(T* a, int32_t size)
 	std::cout << '\n';
 }
 template <typename T>
-void BubbleSort(T* a, int32_t size)
+void BubbleSort(T* a, int32_t size, bool order)
 {
 	for (int32_t i{}; i < size - 1; ++i) 
 	{
 		for (int32_t j{}; j < size - i - 1; ++j)
 		{
-			if (a[j] > a[j + 1]) 
+			if (a[j] > a[j + 1] && order) 
+			{
+				std::swap(a[j], a[j + 1]);
+			}
+			else if (a[j] < a[j + 1] && !order)
 			{
 				std::swap(a[j], a[j + 1]);
 			}
