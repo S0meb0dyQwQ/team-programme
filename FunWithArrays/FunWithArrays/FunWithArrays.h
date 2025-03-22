@@ -39,17 +39,10 @@ void BubbleSort(T* a, int32_t size, bool order)
 template <typename T>
 void ReverseArray(T* a, int32_t size)
 {
-	for (int32_t i{}; i < size; ++i)
+	int32_t half_size{ size / 2 };
+	for (int32_t i{}; i < half_size; ++i)
 	{
-		if (i > size / 2) 
-		{
-			break;
-		}
-		if (i != size - 1 - i)
-		{
-			std::swap(a[i], a[size - 1 - i]);
-		}
-		
+		std::swap(a[i], a[size - 1 - i]);
 	}
 	OutputArray(a, size);
 }
