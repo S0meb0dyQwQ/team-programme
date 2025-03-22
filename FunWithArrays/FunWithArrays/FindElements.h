@@ -8,10 +8,8 @@ void InputNum(T& number)
 	std::cin >> number;
 }
 template <typename T>
-int32_t FindElement( T* array, int32_t size) {
+int32_t FindElement(T element, T* array, int32_t size) {
 	int32_t position{ -1 };
-	T element{};
-	InputNum(element);
 	for (size_t i = 0; i < size; ++i) {
 		if (array[i] == element) {
 			position = i;

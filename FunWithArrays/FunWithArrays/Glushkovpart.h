@@ -27,17 +27,19 @@ int32_t MinElement(Type* array, int32_t size) {
 	return numberOfPosition;
 }
 template <typename Type>
-Type CalculateAverage(Type* array, int32_t size) {
+double CalculateAverage(Type* array, int32_t size) {
 	int32_t minIndex{MinElement(array, size)};
 	int32_t maxIndex{MaxElement(array, size)};
 	Type sumOfElements{};
+	int32_t counterOfElements{};
 	if (maxIndex < minIndex) {
 		std::swap(minIndex, maxIndex);
 	}
-	for (int32_t i{ minIndex }; minIndex <= maxIndex; ++minIndex) {
-		sumOfElements += array[minIndex];
+	for (int32_t i{ minIndex - 1}; i < maxIndex; ++i) {
+		sumOfElements += array[i];
+		++counterOfElements;
 	}
-	return sumOfElements/maxIndex-minIndex;
+	return 1.0*sumOfElements/counterOfElements;
 }
 
 bool IsPrime(int32_t number);
